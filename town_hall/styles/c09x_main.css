@@ -139,7 +139,10 @@ article img {
 	margin: .5em 0 1em 1em;
 	border: 1px solid black;
 }
-
+.right {
+	float: right;}
+.left {
+	float: left;} 
 /* the styles for the aside */
 aside {
     flex-basis: 30%;
