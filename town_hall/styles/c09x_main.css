@@ -140,9 +140,11 @@ article img {
 	border: 1px solid black;
 }
 .right {
-	float: right;}
+	float: right;
+        flex-basis: auto;}
 .left {
-	float: left;} 
+	float: left;
+        flex-basis: auto;} 
 /* the styles for the aside */
 aside {
     flex-basis: 30%;
